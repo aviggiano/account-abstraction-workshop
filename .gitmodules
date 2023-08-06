@@ -1,0 +1,9 @@
+[submodule "account-abstraction"]
+	path = account-abstraction
+	url = git@github.com:aviggiano/account-abstraction.git
+[submodule "bundler"]
+	path = bundler
+	url = git@github.com:aviggiano/bundler.git
+[submodule "trampoline"]
+	path = trampoline
+	url = git@github.com:aviggiano/trampoline.git
